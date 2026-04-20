@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+## 👩‍💻 Author
+Dr. Abhishikha Sharma
 # Data wrangling with dplyr (biological example)
 
 Single-tutorial R script that walks through common [**dplyr**](https://dplyr.tidyverse.org/) patterns using one assay-level biological tibble (`bio`) plus small lookup tables for joins and row binding.
@@ -77,9 +79,6 @@ The script is organized in the same order as the sections below. Each line in th
 
 If you publish this repo, add a `LICENSE` file (for example MIT) so others know how they may use the code.
 
-## Contributing
-
-Issues and pull requests are welcome if you extend the tutorial (for example: `pivot_longer()` / `pivot_wider()` with assay matrices, or real public datasets).
 =======
 # Dplyr_for_data_wrangling-and-manipulation
 >>>>>>> 0d52b3cc3f3c64c6e8fa273f4c599414e3672798
