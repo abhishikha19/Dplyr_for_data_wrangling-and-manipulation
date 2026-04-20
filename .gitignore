@@ -1,0 +1,13 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user/
+
+# System files
+.DS_Store
+
+# Logs
+*.log
+
+# Large data
+data/
