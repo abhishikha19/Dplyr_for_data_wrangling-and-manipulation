@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## 👩‍💻 Author
 Dr. Abhishikha Sharma
 # Data wrangling with dplyr (biological example)
@@ -75,10 +74,4 @@ The script is organized in the same order as the sections below. Each line in th
 | Stack rows | `bind_rows()` |
 | Extract vector | `pull()` |
 
-## License
-
-If you publish this repo, add a `LICENSE` file (for example MIT) so others know how they may use the code.
-
-=======
-# Dplyr_for_data_wrangling-and-manipulation
 >>>>>>> 0d52b3cc3f3c64c6e8fa273f4c599414e3672798
