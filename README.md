@@ -74,4 +74,4 @@ The script is organized in the same order as the sections below. Each line in th
 | Stack rows | `bind_rows()` |
 | Extract vector | `pull()` |
 
->>>>>>> 0d52b3cc3f3c64c6e8fa273f4c599414e3672798
+
